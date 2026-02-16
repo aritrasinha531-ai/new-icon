@@ -1,2 +1,2 @@
 # new-icon
-new icon to be a part of the idealistic world
+new icon to be a part of the idealistic world.
